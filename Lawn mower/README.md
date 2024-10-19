@@ -6,8 +6,8 @@ This is a collection of repairs and spare parts I've created for our cylindrical
 Contents
 ========
 - [Roller](#Roller)
-    - [Problem](#Roller problem)
-    - [Solution](#Roller solution)
+    - [Problem](#Roller_problem)
+    - [Solution](#Roller_solution)
 
 # Roller
 
